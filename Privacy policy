@@ -1,0 +1,246 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#101828">
+    <title>Privacy Policy - iOS Calculator Pro</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f6fb;
+            color: #202938;
+            line-height: 1.7;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 16px;
+            box-shadow: 0 5px 25px rgba(0,0,0,0.08);
+        }
+
+        h1 {
+            color: #2563eb;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            color: #1e40af;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            margin-bottom: 12px;
+        }
+
+        ul {
+            padding-left: 25px;
+            margin-bottom: 15px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        a {
+            color: #2563eb;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .date {
+            color: #64748b;
+            margin-bottom: 20px;
+        }
+
+        .footer {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            text-align: center;
+            color: #64748b;
+        }
+
+        @media(max-width:600px) {
+            body {
+                padding: 10px;
+            }
+
+            .container {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Privacy Policy for iOS Calculator Pro</h1>
+
+    <p class="date">
+        <strong>Last Updated:</strong> November 9, 2026
+    </p>
+
+    <p>
+        Welcome to <strong>iOS Calculator Pro</strong>
+        ("the Application", "we", "our", or "us").
+        We are committed to respecting and protecting
+        your privacy. This Privacy Policy explains our
+        practices regarding data collection, use, and
+        disclosure when you use our mobile application.
+    </p>
+
+    <h2>1. Zero Personal Data Collection</h2>
+
+    <p>
+        iOS Calculator Pro does not collect, transmit,
+        store, sell, or share any personal information.
+    </p>
+
+    <ul>
+        <li>No user accounts or registrations are required.</li>
+        <li>We do not collect names, email addresses,
+        phone numbers, location data, or device identifiers.</li>
+        <li>We do not track your usage, keystrokes,
+        calculation content, or browsing behavior.</li>
+    </ul>
+
+    <h2>2. Device-Local Data Storage</h2>
+
+    <p>
+        All calculation data and user preferences are
+        kept exclusively on your local device.
+    </p>
+
+    <ul>
+        <li><strong>Calculation History:</strong>
+        Equations and results are saved locally in a
+        secure SQLite database using Android Room.</li>
+
+        <li><strong>Settings & Preferences:</strong>
+        Dark/Light theme, Degrees/Radians mode,
+        haptic feedback, key click sound, and decimal
+        precision are stored locally.</li>
+
+        <li><strong>Data Deletion:</strong>
+        You can delete individual history items or
+        clear all history using the Clear All History
+        feature. Uninstalling the app removes local data.</li>
+    </ul>
+
+    <p>
+        None of this data is sent to external servers
+        or cloud services.
+    </p>
+
+    <h2>3. Device Permissions</h2>
+
+    <p>
+        The Application requests only the minimum
+        permissions necessary for its intended utility.
+    </p>
+
+    <ul>
+        <li><strong>android.permission.VIBRATE:</strong>
+        Used exclusively to provide tactile vibration
+        when tapping calculator buttons.</li>
+
+        <li>You can enable or disable haptic feedback
+        in the Settings menu.</li>
+
+        <li>This permission does not access personal data.</li>
+    </ul>
+
+    <p>
+        The Application does NOT request access to your
+        camera, microphone, contacts, storage/photos,
+        precise location, or phone state.
+    </p>
+
+    <h2>4. Third-Party Services & SDKs</h2>
+
+    <ul>
+        <li><strong>No Advertising:</strong>
+        The app does not contain advertising SDKs
+        or third-party ad networks.</li>
+
+        <li><strong>No Analytics or Trackers:</strong>
+        We do not use Google Analytics, Firebase Analytics,
+        Crashlytics, or tracking pixels.</li>
+
+        <li><strong>Offline Operation:</strong>
+        The Application operates 100% offline.</li>
+    </ul>
+
+    <h2>5. Children's Privacy</h2>
+
+    <p>
+        Because iOS Calculator Pro does not collect
+        personal data from users, we do not knowingly
+        collect personal information from children
+        under 13 (or under 16 in the European Union).
+    </p>
+
+    <h2>6. Security</h2>
+
+    <p>
+        Your data stays on your personal device and
+        is protected by Android's application sandbox
+        security model. Since no data is transmitted
+        over the internet, your calculations remain
+        private to you.
+    </p>
+
+    <h2>7. Changes to This Privacy Policy</h2>
+
+    <p>
+        We may update our Privacy Policy from time
+        to time. Any changes will be posted on this
+        page with an updated Last Updated date.
+    </p>
+
+    <h2>8. Contact Information</h2>
+
+    <p>
+        If you have any questions, suggestions, or
+        concerns regarding this Privacy Policy,
+        please contact us:
+    </p>
+
+    <ul>
+        <li><strong>Developer:</strong> iOS Calculator Pro</li>
+        <li>
+            <strong>Email:</strong>
+            <a href="mailto:rofiquloffice0.1@gmail.com">
+                rofiquloffice0.1@gmail.com
+            </a>
+        </li>
+    </ul>
+
+    <div class="footer">
+        &copy; 2026 iOS Calculator Pro.
+        All Rights Reserved.
+    </div>
+
+</div>
+
+</body>
+</html>
